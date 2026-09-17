@@ -84,7 +84,7 @@ class ModuleInstance extends InstanceBase {
 				id: 'useAuthentication',
 				label: 'Enable Authentication',
 				type: 'checkbox',
-				default: 'false',
+				default: false,
 
 			},
 			{
